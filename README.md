@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 ## Running the pipeline
 
-Open `pipeline/conformal_timing_pipeline.ipynb` and run all cells. The notebook can also be run on Kaggle (CPU, Internet on). If you do, upload `ADNIMERGE.csv` as a **private** Kaggle dataset and set `DATA_PATH` to it. Never make a dataset containing ADNI data public.
+Open `pipeline/conformal_timing_pipeline.ipynb` and run all cells. Never make a dataset containing ADNI data public.
 
 Flags at the top of the notebook control run time:
 
