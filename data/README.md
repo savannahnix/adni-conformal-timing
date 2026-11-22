@@ -22,5 +22,5 @@ The paper used the legacy ADNIMERGE release (ADNI1 through ADNI3, 16,420 rows). 
 ## Rules
 
 - Do not commit any file from this folder.
-- Do not upload ADNI data to a public location, including public Kaggle datasets.
+- Do not upload ADNI data to a public location.
 - Outputs the pipeline writes (`pipeline/outputs`, `pipeline/checkpoints`) can contain subject-level information and are excluded from git for the same reason.
